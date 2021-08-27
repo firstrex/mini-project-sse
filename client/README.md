@@ -1,6 +1,6 @@
 # Mini Project Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This front end application can be used to test your server.
 
 ## Available Scripts
 
